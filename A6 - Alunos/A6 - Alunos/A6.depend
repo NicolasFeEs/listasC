@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1789735568 source:c:\users\25.00378-1\downloads\a6 - alunos\a6 - alunos\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1789735568 c:\users\25.00378-1\downloads\a6 - alunos\a6 - alunos\fila.h
+
+1789746042 source:c:\users\25.00378-1\downloads\a6 - alunos\a6 - alunos\grafo.c
+	"grafo.h"
+	"fila.h"
+	<math.h>
+
+1789735568 c:\users\25.00378-1\downloads\a6 - alunos\a6 - alunos\grafo.h
+
+1789745970 source:c:\users\25.00378-1\downloads\a6 - alunos\a6 - alunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+	"fila.h"
+
