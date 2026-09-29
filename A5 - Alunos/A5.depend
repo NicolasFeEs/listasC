@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1787925988 source:c:\users\25.00378-1\downloads\a5 - alunos\pokemon.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"pokemon.h"
+
+1787925988 c:\users\25.00378-1\downloads\a5 - alunos\pokemon.h
+
+1787930262 source:c:\users\25.00378-1\downloads\a5 - alunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1787925988 c:\users\25.00378-1\downloads\a5 - alunos\lista.h
+	"pokemon.h"
+
+1787930286 source:c:\users\25.00378-1\downloads\a5 - alunos\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
