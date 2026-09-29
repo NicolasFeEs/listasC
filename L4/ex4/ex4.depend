@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1772900537 source:c:\users\gzesc\downloads\l4\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+
