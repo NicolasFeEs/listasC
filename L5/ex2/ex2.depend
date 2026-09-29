@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1776878524 source:c:\users\gzesc\downloads\l5\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
